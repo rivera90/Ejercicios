@@ -1,0 +1,8 @@
+1-Actualizar los archivos de la carpeta michangarrito con los archivos de la carpeta del proyecto /home/ubuntu/michangarrito
+cp -r /home/ubuntu/michangarrito* /var/www/michangarrito
+
+2-Crear la carpeta michangarrito(AAAA-MM-DD) y crear respaldo de /home/ubuntu/michangarrito/
+cd /home/ubuntu/backups
+
+mkdir michangarrito-$(date +%Y-%m-%d)/ && cp -r /home/ubuntu/michangarrito/* michangarrito-$(date +%Y-%m-%d)
+

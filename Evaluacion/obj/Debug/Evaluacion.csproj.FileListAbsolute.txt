@@ -1,0 +1,7 @@
+C:\Users\armando\source\repos\IsAnagrama\Evaluacion\bin\Debug\Evaluacion.exe.config
+C:\Users\armando\source\repos\IsAnagrama\Evaluacion\bin\Debug\Evaluacion.exe
+C:\Users\armando\source\repos\IsAnagrama\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\armando\source\repos\IsAnagrama\Evaluacion\obj\Debug\Evaluacion.csprojAssemblyReference.cache
+C:\Users\armando\source\repos\IsAnagrama\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\armando\source\repos\IsAnagrama\Evaluacion\obj\Debug\Evaluacion.exe
+C:\Users\armando\source\repos\IsAnagrama\Evaluacion\obj\Debug\Evaluacion.pdb
